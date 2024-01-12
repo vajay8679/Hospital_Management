@@ -1,0 +1,115 @@
+    PatientID,"Room Number","Infection Onset","Culture Source",Organism,Precautions,"Date Of Start ABX","Provider Doctor",Diagnosis,"Antibiotic Name","Days of Therapy","MD Steward","MD Steward Response",PSA,"New Diagnosis","New Antibiotic Name","New Days of Therapy"
+COC1000715,,Hospital/CAI,,,,05/25/2021,"Lee, Karen","Cellulitis/Soft Tissue Infection",Amoxicillin-Clavulanate,7,"Ben De La Rosa",Disagree,Neutral,,,3
+1000715,,Facility/HAI,,,,05/25/2021,"Lee, Karen","Cellulitis/Soft Tissue Infection",Amoxicillin-Clavulanate,7,"Ben De La Rosa",Disagree,Neutral,,,3
+COC1000715,,Facility/HAI,,,,05/26/2021,"Lee, Karen","Cellulitis/Soft Tissue Infection",Vancomycin-IV,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1003101,,Facility/HAI,,,,05/23/2021,"Goldstein, Marc","Cellulitis/Soft Tissue Infection",Doxycycline,7,"Ben De La Rosa",Disagree,Neutral,"Stasis dermatitis",,4
+COC1003101,,Hospital/CAI,,,,05/23/2021,"Goldstein, Marc","C. Diff prophylaxis",Vancomycin-PO,7,"Ben De La Rosa",Disagree,Neutral,"No obvious infection",,4
+COC1004975,,Facility/HAI,,,,05/24/2021,"Hwang, John",UTI,Ciprofolxacin,7,"Ben De La Rosa",Disagree,Neutral,,,4
+COC1004942,,Hospital/CAI,,,,05/24/2021,"Hwang, John",UTI,Nitrofurantoin,5,"Ben De La Rosa",Agree,Neutral,,,5
+COC1004942,,Hospital/CAI,,,,05/21/2021,"Hwang, John","Prophylaxis - Primary or Secondary","Trimethoprim-Sulfamethoxazole prophylaxis",21,"Ben De La Rosa",Agree,Neutral,,,0
+1004696,,Facility/HAI,,,,04/16/2021,"Goldstein, Marc","Prophylaxis - Primary or Secondary",Doxycycline,21,"Ben De La Rosa",Agree,Neutral,,,0
+COC1000882,,Hospital/CAI,,,,05/27/2021,"Ho, Kasing",Bacteremia,Daptomycin,3,"Ben De La Rosa",Agree,Neutral,,,0
+COC1000882,,Hospital/CAI,,,,05/27/2021,"Ho, Kasing",Bacteremia,Rifampin,2,"Ben De La Rosa",Agree,Neutral,,,0
+COC1002434,,Facility/HAI,,,,05/24/2021,"Ho, Kasing",Pneumonia,Cefepime,5,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004985,,Hospital/CAI,,,,05/25/2021,"Ho, Kasing",UTI,Trimethoprim-Sulfamethoxazole,10,"Ben De La Rosa",Disagree,Neutral,"No obvious infection",,5
+COC1004729,,Hospital/CAI,,,,05/26/2021,"Djebiyan, Eli",UTI,Cefuroxime,5,"Ben De La Rosa",Disagree,Neutral,"No obvious infection",,0
+COC1004979,,Hospital/CAI,,,,05/26/2021,"Hwang, John",UTI,Nitrofurantoin,5,"Ben De La Rosa",Agree,Neutral,,,0
+COC1003029,,Facility/HAI,,,,09/29/2021,"Hwang, John",UTI,Nitrofurantoin,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004938,,Facility/HAI,,,,04/21/2021,"Hwang, John",UTI,Ceftriaxone,7,"Ben De La Rosa",Disagree,Neutral,,,5
+COC1004873,,Hospital/CAI,,,,04/20/2021,"Goldstein, Marc","Prophylaxis - Primary or Secondary",Cefadroxil,42,"Ben De La Rosa",Disagree,Neutral,,,22
+COC1004842,,Facility/HAI,,,,04/21/2021,"Hernandez, Dennis","C. difficile",Vancomycin-PO,28,"Ben De La Rosa",Neutral,Neutral,,,0
+COC(1004948,,Facility/HAI,,,,04/21/2021,"Hernandez, Dennis",Cough,Azithromycin,5,"Ben De La Rosa",Disagree,Neutral,,,0
+COC1004696,,Hospital/CAI,,,,04/16/2021,"Goldstein, Marc","Prophylaxis - Primary or Secondary",Doxycycline,30,"Ben De La Rosa",Agree,Neutral,,,0
+COC1000882,,Hospital/CAI,,,,04/22/2021,"Ho, Kasing",Bacteremia,Daptomycin,35,"Ben De La Rosa",Disagree,Neutral,,,11
+COC1000882,,Hospital/CAI,,,,04/22/2021,"Ho, Kasing",Bacteremia,Rifampin,35,"Ben De La Rosa",Disagree,Neutral,,,0
+COC1004947,,Facility/HAI,,,,04/16/2021,"Hwang, John","Cellulitis/Soft Tissue Infection",Cephalexin,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1001380,,Hospital/CAI,,,,04/16/2021,"Katz, Terri","Prophylaxis - Primary or Secondary",Doxycycline,30,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004959,,Hospital/CAI,,,,05/18/2021,"Ho, Kasing",Diverticulitis,Moxifloxacin,14,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004959,,Hospital/CAI,,,,05/18/2021,"Ho, Kasing","C. Diff prophylaxis","Vancomycin-PO Prophylaxis",21,"Ben De La Rosa",Agree,Neutral,,,0
+COC1002127,,Hospital/CAI,,,,05/22/2021,"Ho, Kasing","Cellulitis/Soft Tissue Infection",Levofloxacin,42,"Ben De La Rosa",Disagree,Neutral,,,5
+1004938,,Facility/HAI,,,,05/25/2021,"Hwang, John",UTI,Ceftriaxone,5,"Ben De La Rosa",Agree,Neutral,,,0
+1004938,,Facility/HAI,,,,05/22/2021,"Hwang, John",UTI,Nitrofurantoin,7,"Ben De La Rosa",Disagree,Neutral,,,6
+COC1004341,,Facility/HAI,,,,10/01/2021,"Ho, Kasing","Cellulitis/Soft Tissue Infection",Doxycycline,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005155,,Facility/HAI,,,,10/01/2021,"Ho, Kasing",Bacteremia,Vancomycin-IV,7,"Ben De La Rosa",Disagree,Neutral,Bacteremia,,2
+COC1005118,,Hospital/CAI,,,,10/01/2021,"Casser, Michael","C. difficile",Vancomycin-PO,5,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005118,,Hospital/CAI,,,,10/01/2021,"Casser, Michael","Wound Infection",Vancomycin-IV,5,"Ben De La Rosa",Agree,Neutral,"Intraabdominal Abscess",,2
+COC1005118,,Hospital/CAI,,,,10/01/2021,"Casser, Michael","Wound Infection",Imipenem,5,"Ben De La Rosa",Agree,Neutral,"Intraabdominal Abscess",,7
+1000715,,Hospital/CAI,,,,10/01/2021,"Casser, Michael","Candida - Oral",Fluconazole,5,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004958,,Hospital/CAI,,,,10/08/2021,"Hwang, John","Herpes simplex","Valacyclovir Prophylaxis",1,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005139,,Hospital/CAI,,,,10/10/2021,"De La Rosa, Benjamin",Bacteremia,Ciprofolxacin,4,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005171,,Hospital/CAI,NA,NA,,10/10/2021,"Ho, Kasing",UTI,Ciprofolxacin,5,"Ben De La Rosa",Agree,Neutral,,,
+COC1005022,,Hospital/CAI,,,,10/13/2021,"Hwang, John",UTI,Cephalexin,6,"Ben De La Rosa",Agree,Neutral,,,0
+COC1003391,,Facility/HAI,,,,10/07/2021,"Hernandez, Dennis",UTI,Nitrofurantoin,7,"Ben De La Rosa",Disagree,Neutral,,,0
+COC1005003,,Hospital/CAI,,,,10/07/2021,"Goldstein, Marc",Bacteremia,Vancomycin-IV,8,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005161,,Facility/HAI,,,,10/08/2021,"Hwang, John",Pneumonia,Levofloxacin,5,"Ben De La Rosa",Disagree,Agree,"No obvious infection",,2
+COC1004671,,Facility/HAI,,,,09/08/2021,"Hwang, John",UTI,Nitrofurantoin,6,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004671,,Hospital/CAI,,,,09/07/2021,"Hwang, John",UTI,Ciprofolxacin,6,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004671,,Facility/HAI,,,,09/27/2021,"Hwang, John","Prophylaxis - Primary or Secondary",Ciprofolxacin,6,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004671,,Facility/HAI,,,,09/27/2021,"Hwang, John","Prophylaxis - Primary or Secondary",Nitrofurantoin,6,"Ben De La Rosa",Agree,Agree,,,0
+COC1003029,,Facility/HAI,,,,09/29/2021,"Hwang, John",UTI,Nitrofurantoin,7,"Ben De La Rosa",Disagree,Disagree,,,0
+COC1003361,,Facility/HAI,,,,09/14/2021,"Hwang, John",UTI,Nitrofurantoin,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005003,,Hospital/CAI,,,,09/13/2021,"Goldstein, Marc",Endocarditis,"Ampicillin IV",2,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005003,,Hospital/CAI,,,,09/13/2021,"Goldstein, Marc",Endocarditis,Ceftriaxone,2,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005125,,Hospital/CAI,,,,09/10/2021,"Djebiyan, Eli","Intraabdominal Abscess",Fluconazole,14,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005125,,Hospital/CAI,,,,09/10/2021,"Djebiyan, Eli","Intraabdominal Abscess",Ertapenem,14,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005155,,Hospital/CAI,,,,09/26/2021,"Ho, Kasing",Diverticulitis,Levofloxacin,5,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005155,,Hospital/CAI,,,,09/25/2021,"Ho, Kasing",Diverticulitis,Metronidazole,5,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005158,,Hospital/CAI,,,,09/29/2021,"Hwang, John",Bacteremia,Doxycycline,30,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005158,,Hospital/CAI,,,,09/29/2021,"Hwang, John",Bacteremia,Levofloxacin,30,"Ben De La Rosa",Agree,Neutral,,,0
+COC1000070,,Facility/HAI,,,,10/23/2021,"Hwang, John",URI,Amoxicillin-Clavulanate,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1003697,,Hospital/CAI,,,,10/25/2021,"Katz, Terri",Pneumonia,Levofloxacin,2,"Ben De La Rosa",Agree,Neutral,,,1
+COC1005143,,Facility/HAI,,,,10/25/2021,"Pantagis, Stefanos",URI,Cefuroxime,14,"Ben De La Rosa",Disagree,Disagree,,,0
+COC1004760,,Hospital/CAI,,,,10/25/2021,"Hernandez, Dennis",UTI,Cefuroxime,4,"Ben De La Rosa",Disagree,Neutral,,,0
+COC1005198,,Hospital/CAI,,,,10/31/2021,"Gumaste, Sandhya","Wound Infection",Trimethoprim-Sulfamethoxazole,14,"Ben De La Rosa",Disagree,Neutral,"No obvious infection",,0
+1000715,,Facility/HAI,,,,11/11/2021,"Pantagis, Stefanos",Cough,Azithromycin,5,"Ben De La Rosa",Disagree,"No Response",,,0
+COC1005207,,Facility/HAI,,,,11/04/2021,"Ho, Kasing","Herpes simplex",Valacyclovir,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004243,,Hospital/CAI,,,,11/09/2021,"Katz, Terri",UTI,Ceftriaxone,9,"Ben De La Rosa",Disagree,Agree,,,5
+COC1005202,,Hospital/CAI,,,,11/02/2021,"Hwang, John",UTI,Ciprofolxacin,5,"Ben De La Rosa",Disagree,Disagree,Bacteruria,,0
+COC1004443,,Facility/HAI,,,,11/03/2021,"Djebiyan, Eli",Pneumonia,Trimethoprim-Sulfamethoxazole,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005152,,Facility/HAI,,,,11/11/2021,"Ho, Kasing",Pneumonia,Amoxicillin-Clavulanate,6,"Ben De La Rosa",Disagree,Agree,,,3
+COC1004591,,Facility/HAI,,,,11/10/2021,"Hwang, John",Pneumonia,Amoxicillin-Clavulanate,5,"Ben De La Rosa",Disagree,Neutral,,,0
+COC1005091,,Hospital/CAI,,,,10/23/2021,"Hwang, John","Cardiac Device Infection",Cefpodoxime,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005091,,Hospital/CAI,,,,10/23/2021,"Hwang, John","Cardiac Device Infection",Vancomycin-IV,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005091,,Hospital/CAI,,,,11/01/2021,"Hwang, John","Prophylaxis - Primary or Secondary",Doxycycline,30,"Ben De La Rosa",Agree,Neutral,,,0
+COC1000882,,Hospital/CAI,,,,10/22/2021,"Hwang, John","Prophylaxis - Primary or Secondary",Doxycycline,30,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004284,,Hospital/CAI,,,,11/26/2021,"Suri, Ritu",Mastoiditis,Ciprofolxacin,5,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005242,,Hospital/CAI,,,,11/30/2021,"Ho, Kasing",UTI,Levofloxacin,3,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005089,,Facility/HAI,,,,12/01/2021,"Hwang, John","Eye infection",Ciprofolxacin,5,"Ben De La Rosa",Neutral,Neutral,,,
+COC1004540,,Hospital/CAI,,,,12/01/2021,"Hernandez, Dennis",URI,Ceftriaxone,2,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005235,,Hospital/CAI,,,,11/24/2021,"Hwang, John","Wound Infection",Doxycycline,10,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005239,,Hospital/CAI,,,,11/29/2021,"Hernandez, Dennis",UTI,Nitrofurantoin,7,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005239,,Hospital/CAI,,,,12/01/2021,"Hernandez, Dennis",UTI,Cephalexin,7,"Ben De La Rosa",Neutral,Neutral,,,
+1004978,,Facility/HAI,,,,12/01/2021,"Hwang, John",UTI,Trimethoprim-Sulfamethoxazole,7,"Ben De La Rosa",Neutral,Neutral,,,
+COC1003361,,Facility/HAI,,,,12/01/2021,"Hwang, John",UTI,Nitrofurantoin,5,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005308,,Hospital/CAI,NA,NA,,01/04/2022,"Hwang, John","Wound Infection",Amoxicillin-Clavulanate,6,"Ben De La Rosa",Neutral,Neutral,,,
+1005091,,Hospital/CAI,Wound,MRSA,,12/28/2021,"Hwang, John","Wound Infection",Ceftazidime,14,"Ben De La Rosa",Neutral,Neutral,,,
+1005091,,Hospital/CAI,Wound,MRSA,,12/28/2021,"Hwang, John","Wound Infection",Vancomycin-IV,14,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005320,,Hospital/CAI,NA,NA,,01/07/2022,"Ho, Kasing",Pneumonia,Cefuroxime,6,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005280,,Hospital/CAI,Blood,MSSA,,12/21/2021,"Ho, Kasing",Bacteremia,Cefazolin,28,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005316,,Hospital/CAI,NA,NA,,01/07/2022,"Ho, Kasing","Wound Infection",Amoxicillin-Clavulanate,7,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005316,,Hospital/CAI,NA,NA,,01/06/2022,"Ho, Kasing","Wound Infection",Trimethoprim-Sulfamethoxazole,7,"Ben De La Rosa",Neutral,Neutral,,,
+COC1003699,,Hospital/CAI,NA,NA,,01/04/2022,"Gumaste, Sandhya",Pneumonia,Cephalexin,10,"Ben De La Rosa",Neutral,Neutral,,,
+COC1000070,,Facility/HAI,NA,NA,,10/22/2021,"Hwang, John","Prophylaxis - Primary or Secondary",Amoxicillin-Clavulanate,1,"Ben De La Rosa",Neutral,Neutral,,,0
+COC1000070,,Facility/HAI,NA,NA,,10/23/2021,"Hwang, John",URI,Amoxicillin-Clavulanate,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004903,,Facility/HAI,NA,NA,,11/11/2021,"Katz, Terri",URI,Azithromycin,5,"Ben De La Rosa",Disagree,Neutral,,,0
+COC1005076,,Facility/HAI,NA,NA,,11/19/2021,"Hernandez, Dennis",URI,Azithromycin,5,"Ben De La Rosa",Disagree,Neutral,,,0
+COC1004341,,Facility/HAI,NA,NA,,11/15/2021,"Ho, Kasing","Cellulitis/Soft Tissue Infection",Cephalexin,5,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005222,,Hospital/CAI,NA,NA,,11/12/2021,"Suri, Ritu","Intraabdominal Abscess",Piperacillin-Tazobactam,10,"Ben De La Rosa",Agree,Neutral,,,0
+1005308,,Hospital/CAI,NA,NA,,01/04/2022,"Hwang, John","Wound Infection",Amoxicillin-Clavulanate,24,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005288,,Facility/HAI,NA,NA,,01/24/2022,"Hwang, John","Wound Infection",Doxycycline,7,"Ben De La Rosa",Neutral,Neutral,,,
+COC1005342,,Facility/HAI,NA,NA,,01/21/2022,"Ho, Kasing","Candida - Oral",Fluconazole,7,"Ben De La Rosa",Neutral,Neutral,,,
+COC1004949,,Hospital/CAI,NA,NA,,01/23/2022,"Hwang, John","Wound Infection",Moxifloxacin,9,"Ben De La Rosa",Neutral,Neutral,,,
+COC1001418,,Hospital/CAI,Blood,MRSA,,01/22/2022,"Hwang, John",Bacteremia,Ceftaroline,15,"Ben De La Rosa",Neutral,Neutral,,,
+COC1004978,,Hospital/CAI,NA,NA,,01/26/2022,"Hwang, John","C. difficile",Vancomycin-PO,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005295,,Hospital/CAI,NA,NA,,12/30/2021,"Hwang, John","Cellulitis/Soft Tissue Infection",Doxycycline,7,"Ben De La Rosa",Neutral,Neutral,,,0
+COC1005076,,Facility/HAI,NA,NA,,12/13/2021,"Hernandez, Dennis",Diverticulitis,Ciprofolxacin,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1005076,,Facility/HAI,NA,NA,,12/13/2021,"De La Rosa, Benjamin",Diverticulitis,Metronidazole,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1003101,,Facility/HAI,NA,NA,,12/04/2021,"Goldstein, Marc",Pneumonia,Cefpodoxime,7,"Ben De La Rosa",Disagree,Agree,,,3
+COC1005276,,Facility/HAI,NA,NA,,12/21/2021,"Hwang, John",Pneumonia,Doxycycline,7,"Ben De La Rosa",Agree,Neutral,,,0
+COC1004341,,Facility/HAI,NA,NA,,12/19/2021,"Hwang, John","Prophylaxis - Primary or Secondary",Trimethoprim-Sulfamethoxazole,4,"Ben De La Rosa",Neutral,Neutral,,,0
+COC1005171,,Facility/HAI,Urine,"ESBL ecoli",,12/21/2021,"Ho, Kasing",UTI,Ciprofolxacin,7,"Ben De La Rosa",Disagree,"No Response",,,0
+COC1005022,,Hospital/CAI,NA,NA,,12/02/2021,"Suri, Ritu","Intraabdominal Abscess",Piperacillin-Tazobactam,28,"Ben De La Rosa",Agree,Neutral,,,21
+COC1004632,,Hospital/CAI,NA,NA,,12/02/2021,"Goldstein, Marc",UTI,Ciprofolxacin,14,"Ben De La Rosa",Disagree,Agree,,,12
+COC-1234,,Hospital/CAI,Blood,MRSA,A,11/07/2022,"AA Doctor Costanza","Cardiac Device Infection",Caspofungin,2,Ajay,Neutral,Neutral,,,
+COC1234,,Hospital/CAI,Blood,MRSA,A,11/07/2022,"AA Doctor Costanza","Cellulitis/Soft Tissue Infection","Ampicillin IV",1,"Ben De La Rosa",Neutral,Neutral,,,
+COC4224f,,Hospital/CAI,Nares,MSSA,A,01/01/1970,"AA Doctor Costanza",Cholangitis,Cefdinir,23,raju,Neutral,Neutral,,,
